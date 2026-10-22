@@ -1,3 +1,10 @@
+> **Este projeto agora se chama DiveProp.** O código continua em
+> **https://github.com/JoaoMarcos91/diveprop** e o jogo está em
+> **https://joaomarcos91.github.io/diveprop/**. Este repositório está arquivado e só existe
+> para o link antigo (`joaomarcos91.github.io/fpvsim`) continuar levando para o DiveProp.
+>
+> *This project is now called DiveProp: https://github.com/JoaoMarcos91/diveprop*
+
 # FPVsim
 
 Simulador de drone FPV em 3D que roda direto no navegador, com física realista, 9 cenários
